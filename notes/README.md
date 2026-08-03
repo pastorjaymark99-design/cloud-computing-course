@@ -1,3 +1,3 @@
-# Projects
+# Notes
 
-This folder contains course projects.
+This folder contains class notes and summaries.

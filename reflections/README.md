@@ -1,3 +1,3 @@
-# Activities
+# Reflections
 
-This folder contains course activities.
+This folder contains reflection papers.

@@ -14,8 +14,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - **Name:** JAY MARK PASTOR
-- **Course/Section:** (Ilagay ang course at section mo)
-- **Instructor:** (Ilagay ang pangalan ng instructor)
+- **Course/Section:** (BSIT/BLOCK I)
+- **Instructor:** (JENKIELYN TORRES)
 - **School Year:** 2026-2027
 
 ## 📂 Repository Structure

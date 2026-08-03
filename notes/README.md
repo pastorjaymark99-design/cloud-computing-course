@@ -1,3 +1,3 @@
-# Activities
+# Projects
 
-This folder contains course activities.
+This folder contains course projects.
